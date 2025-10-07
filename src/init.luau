@@ -2,8 +2,8 @@ local NetcodeClient = require(script.NetcodeClient)
 local NetcodeServer = require(script.NetcodeServer)
 local NetcodeTypes = require(script.NetcodeTypes)
 
-export type NetcodeClient = NetcodeClient.NetcodeClient
-export type NetcodeServer = NetcodeServer.NetcodeServer
+export type Client = NetcodeClient.NetcodeClient
+export type Server = NetcodeServer.NetcodeServer
 
 local library = {
 	client = NetcodeClient,

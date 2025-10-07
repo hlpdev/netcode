@@ -1,7 +1,7 @@
 [package]
 name = "hlpdev/netcode"
 description = "A lightweight, fast, networking wrapper for Roblox."
-version = "1.0.1"
+version = "1.0.2"
 license = "MIT"
 authors = ["Hunter Pollock"]
 realm = "shared"
