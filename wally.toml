@@ -1,0 +1,14 @@
+[package]
+name = "hlpdev/netcode"
+description = "A lightweight, fast, networking wrapper for Roblox."
+version = "1.0.0"
+license = "MIT"
+authors = ["Hunter Pollock"]
+realm = "shared"
+registry = "https://github.com/UpliftGames/wally-index"
+homepage = "https://github.com/hlpdev/netcode"
+
+exclude = ["**"]
+include = ["src", "src/*", "default.project.json", "wally.lock", "wally.toml", "LICENSE"]
+
+[dependencies]
